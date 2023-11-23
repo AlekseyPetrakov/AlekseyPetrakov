@@ -8,7 +8,7 @@ Alex Petrakov</a></h1>
 
 <div align="center">
 	<h3>- 📄 Know about my experiences </h3>
-	<a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+	<a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://github.com/AlekseyPetrakov)" target="blank">Resume</a>
 </div>
 
 
