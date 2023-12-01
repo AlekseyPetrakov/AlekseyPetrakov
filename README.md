@@ -8,8 +8,8 @@ Alex Petrakov</a></h1>
 
 <div align="center">
 	<h3>- 📄 Know about my experiences </h3>
-	<a href="https://github.com/AlekseyPetrakov" target="blank">Resume</a>
-	<a href="https://www.youtube.com/@CarrotMakes-mj6we/featured" target="blank">Youtube</a>
+	<a href="https://github.com/AlekseyPetrakov" target="blank"> Resume </a>
+	<a href="https://www.youtube.com/@CarrotMakes-mj6we/featured" target="blank"> Youtube </a>
 </div>
 
 
